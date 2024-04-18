@@ -1,4 +1,28 @@
-/* Created by: Mr. Coxall
-* Created on: Sep 2020
+/* Created by: Yoochan Han
+* Created on: Mar 2024
 * This file contains the CSS for index.html
 */
+body {
+    background-color: aqua;
+    color: black;
+   }
+   
+   .right-image {
+    height: 512px;
+    width: 512px;
+    position: relative;
+    top: 20px;
+    left: 40px;
+   }
+
+   p {
+    font-size: 30rem;
+    position: relative;
+    left: 20px;
+   }
+ 
+   #mybutton {
+    position: relative;
+    left: 30px;
+   }
+   
